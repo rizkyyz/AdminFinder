@@ -39,5 +39,5 @@ optional arguments:
 - `wordlist.txt` contains the wordlist that is used to build the urls for scanning
 
 ## Contributors
-@the-c0d3r, @Taimander, @B4DF4C3
+@rizkyyz
 
